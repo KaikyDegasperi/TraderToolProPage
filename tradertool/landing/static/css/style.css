@@ -1,0 +1,13 @@
+:root {
+    /* Cores principais para temas de confiança e estabilidade */
+    --color-background-primary: #2A9D8F;    /* Verde principal para o fundo de destaque */
+    --color-background-secondary: #1E90FF;  /* Azul para elementos de suporte */
+    
+    /* Cores neutras para fundo e texto */
+    --color-background-light: #F5F5F5;      /* Cinza claro para fundos */
+    --color-text-primary: #333333;          /* Cinza escuro para texto principal */
+  
+    /* Cores de ação e alerta */
+    --color-action-highlight: #DAA520;      /* Dourado para destacar ações importantes */
+    --color-alert: #E63946;                 /* Vermelho para alertas ou mensagens de erro */
+}
